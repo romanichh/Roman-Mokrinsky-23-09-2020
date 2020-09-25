@@ -1,0 +1,4 @@
+2020-09-25 22:25:31,583 INFO [main] t.TestBase [TestBase.java:22] Start testfooterElementswith parameters[]
+2020-09-25 22:26:12,228 INFO [main] t.TestBase [TestBase.java:27] Stop testfooterElements
+2020-09-25 22:26:12,230 INFO [main] t.TestBase [TestBase.java:22] Start testfooterServiceswith parameters[]
+2020-09-25 22:26:35,719 INFO [main] t.TestBase [TestBase.java:27] Stop testfooterServices
